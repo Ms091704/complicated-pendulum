@@ -6,8 +6,9 @@
 [tutorial](link)
 
 # equations
+$a_1 = b^2 =\int_0^1 \alpha(t)$
 
-
+# making lists
 * list item **bold**
 * another item
   * sublist item
