@@ -8,6 +8,7 @@
 # equations
 $a_1 = b^2 =\int_0^1 \alpha(t)$
 
+![pendulum diagram](https://en.wikipedia.org/wiki/File:Simple_gravity_pendulum.svg)
 # making lists
 * list item **bold**
 * another item
